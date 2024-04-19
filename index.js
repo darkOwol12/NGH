@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Obsługuje NGH Community"];
+const statusMessages = ["Obsługuje NGH Community","Obsługuje NGH E-Sports"];
 
 
 let currentIndex = 0;
